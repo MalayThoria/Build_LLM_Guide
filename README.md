@@ -6,14 +6,6 @@ A character-level Transformer (mini-GPT) trained on Shakespeare's complete works
 
 ---
 
-## 🚀 Run it in one click
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Shakespeare_LLM_From_Scratch.ipynb)
-
-> ⚠️ **Enable GPU first:** *Runtime → Change runtime type → T4 GPU*
-
----
-
 ## 📚 What's inside
 
 A 38-cell notebook that walks through every concept needed to build a real Transformer:
